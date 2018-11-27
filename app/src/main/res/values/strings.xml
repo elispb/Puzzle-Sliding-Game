@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sliding Puzzle Game</string>
+
+    <string name="Error_Screen_Title">The puzzle app encountered an error.</string>
+    <string name="Network_Error_Msg">There are no downloaded puzzles, please connect to the internet to download a puzzle.</string>
+    <string name="Reading_Data_Error">There was an issue reading the puzzle data. If this issue persists contact the developer.</string>
+    <string name="Current_Score">Moves:&#160;</string>
+    <string name="Hisghscore_Prelude">Best Solve:&#160;</string>
+    <string name="Hisghscore_Postscript">&#160;moves</string>
+    <string name="Hisghscore_No_Moves" translatable="false">N/A</string>
+    <string name="Win_Prelude">You solved it in&#160;</string>
+    <string name="Win_Postscript">&#160;move(s)!</string>
+    <string name="Max_Slide_Msg">You can only slide 2 pieces at once.</string>
+    <string name="Saved_Menu_Icon">&#160;- Saved</string>
+    <string name="Layout_Menu_Icon">&#160;- Size:&#160;</string>
+    <string name="Pre_Highscore">&#160;- Score:&#160;</string>
+    <string name="Reset_Puzzle_Button">Reset Puzzle</string>
+    <string name="Downloaded_Title">Offline Puzzles</string>
+    <string name="Unloaded_Title">Online Puzzles</string>
+    <string name="SwipeUp">Swiped Up</string>
+    <string name="SwipeDown">Swiped Down</string>
+    <string name="SwipeLeft">Swiped Left</string>
+    <string name="SwipeRight">Swiped Up</string>
+</resources>

@@ -1,0 +1,7 @@
+#Tue Apr 24 14:20:05 BST 2018
+base.0=G\:\\Mobile\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b14005189bcfc3fb105ac864d6552be52aaadb33
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\Mobile\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e6eda8669b932bf27f73487a49d62433ff2e523\\classes.dex
+base.1=G\:\\Mobile\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2e6eda8669b932bf27f73487a49d62433ff2e523
+file.0=G\:\\Mobile\\ACW\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b14005189bcfc3fb105ac864d6552be52aaadb33\\classes.dex

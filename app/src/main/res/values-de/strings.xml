@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sliding Puzzle Game</string>
+    <string name="Current_Score">Bewegt sich:&#160;</string>
+    <string name="Error_Screen_Title">Die Puzzle-App hat einen Fehler festgestellt.</string>
+    <string name="Hisghscore_Postscript">&#160;bewegt sich</string>
+    <string name="Max_Slide_Msg">Sie können nur 2 Stücke gleichzeitig schieben.</string>
+    <string name="Hisghscore_Prelude">Beste Lösung:&#160;</string>
+    <string name="Network_Error_Msg">Es gibt keine heruntergeladenen Puzzles, bitte verbinden Sie sich mit dem Internet, um ein Puzzle herunterzuladen.</string>
+    <string name="Reading_Data_Error">Es gab ein Problem beim Lesen der Puzzledaten. Wenn das Problem weiterhin besteht, wenden Sie sich an den Entwickler.</string>
+    <string name="Win_Postscript">&#160;Zug (e)!</string>
+    <string name="Win_Prelude">Du hast es gelöst&#160;</string>
+    <string name="Downloaded_Title">Offline-Rätsel</string>
+    <string name="Layout_Menu_Icon">&#160;- Größe:&#160;</string>
+    <string name="Pre_Highscore">&#160;- Bewertung:&#160;</string>
+    <string name="Reset_Puzzle_Button">Setze ein Puzzle zurück</string>
+    <string name="Saved_Menu_Icon">&#160;- Gerettet</string>
+    <string name="Unloaded_Title">Online-Rätsel</string>
+    <string name="SwipeDown">Nach oben geklaut</string>
+    <string name="SwipeLeft">Wischte nach links</string>
+    <string name="SwipeRight">Nach rechts gewischt</string>
+    <string name="SwipeUp">Nach oben geklaut</string>
+</resources>
