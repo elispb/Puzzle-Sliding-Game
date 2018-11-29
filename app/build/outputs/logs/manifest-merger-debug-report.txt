@@ -1,104 +1,160 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\813f657a50672d525369d64735bfdde5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:3:5-30
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:2:11-69
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:8:5-23:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\dfd29a79ecd6375b6d3656ba239730954f266820\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\470a4c79ca90f43bcd64b4b42596e0e256c8a54e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\490680\.android\build-cache\5612085e5d836631f7fb9abd2c6684a1474ec57f\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\490680\.android\build-cache\f46aa68bf5ce675c1cb550ec47860920f347801c\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\490680\.android\build-cache\100d577ec67b922c924cdce1118afb7d868cdb90\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\490680\.android\build-cache\59a5df080eb8f14391512bc9d7b4796fdd1d27cd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\490680\.android\build-cache\ec9fcb7884e98fb6658448cf4daa0fb5d0c80e7f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\490680\.android\build-cache\c49279c55d3e09cbe4c0fd08fee51bbcdc159fb5\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\490680\.android\build-cache\38dcbda1a2dbf821562e5a7ed4d9a132a2ff57e8\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\490680\.android\build-cache\4b28889c89562c5af5cd7ed692db9dad846b8799\output\AndroidManifest.xml:29:5-20
-	android:label
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:11:9-41
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\813f657a50672d525369d64735bfdde5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\813f657a50672d525369d64735bfdde5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:12:9-35
-	android:allowBackup
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:11:9-41
 	android:icon
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:13:9-65
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:13:9-65
 activity#mobile.labs.acw.MainActivity
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:14:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:15:13-19:29
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:18:27-74
 activity#mobile.labs.acw.PuzzleActivity
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:21:9-52
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:21:9-52
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:21:19-49
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:21:19-49
 activity#mobile.labs.acw.ErrorScreen
-ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:22:9-58
+ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:22:9-58
 	android:name
-		ADDED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml:22:19-46
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml:22:19-46
 uses-sdk
-INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\dfd29a79ecd6375b6d3656ba239730954f266820\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\470a4c79ca90f43bcd64b4b42596e0e256c8a54e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\490680\.android\build-cache\5612085e5d836631f7fb9abd2c6684a1474ec57f\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\490680\.android\build-cache\f46aa68bf5ce675c1cb550ec47860920f347801c\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\490680\.android\build-cache\100d577ec67b922c924cdce1118afb7d868cdb90\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\490680\.android\build-cache\59a5df080eb8f14391512bc9d7b4796fdd1d27cd\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\490680\.android\build-cache\ec9fcb7884e98fb6658448cf4daa0fb5d0c80e7f\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\490680\.android\build-cache\c49279c55d3e09cbe4c0fd08fee51bbcdc159fb5\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\490680\.android\build-cache\38dcbda1a2dbf821562e5a7ed4d9a132a2ff57e8\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\490680\.android\build-cache\4b28889c89562c5af5cd7ed692db9dad846b8799\output\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\813f657a50672d525369d64735bfdde5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\813f657a50672d525369d64735bfdde5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
-		INJECTED from G:\Mobile\ACW\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Puzzle-Sliding-Game\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\dfd29a79ecd6375b6d3656ba239730954f266820\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\490680\.android\build-cache\470a4c79ca90f43bcd64b4b42596e0e256c8a54e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\490680\.android\build-cache\f46aa68bf5ce675c1cb550ec47860920f347801c\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\490680\.android\build-cache\100d577ec67b922c924cdce1118afb7d868cdb90\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\490680\.android\build-cache\59a5df080eb8f14391512bc9d7b4796fdd1d27cd\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\490680\.android\build-cache\ec9fcb7884e98fb6658448cf4daa0fb5d0c80e7f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\490680\.android\build-cache\c49279c55d3e09cbe4c0fd08fee51bbcdc159fb5\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\490680\.android\build-cache\38dcbda1a2dbf821562e5a7ed4d9a132a2ff57e8\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\490680\.android\build-cache\4b28889c89562c5af5cd7ed692db9dad846b8799\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\8badc2b35bb2d6c8e2e575d2bc6588bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-25.3.1.aar\c7d2d23cfaaf34d0812b66bc6892b0e2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\b91922b3e7b6a9ea867381d0b6803d45\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\1c049ebca884773b53eb230ca81814a3\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\2054ea5178a5bd29c60565025609f5fd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\a9a2c35682dc34d50df2723306663894\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\37889b2f07f4481fd64f0a7aba14160d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\462295a873f61243f1bfd33cec1553b3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\0a1da5ecf14b5a10292389d83df9c71e\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\490680\.android\build-cache\0642a24ac4af732edfc73bfbf1fd8be46814e1a4\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\elisp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\e55a411296e0cfe44376ad8ba165669e\AndroidManifest.xml:26:9-47

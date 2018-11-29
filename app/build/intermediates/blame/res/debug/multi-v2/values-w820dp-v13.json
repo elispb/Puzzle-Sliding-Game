@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Mobile\\ACW\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Android\\Puzzle-Sliding-Game\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "G:\\Mobile\\ACW\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Android\\Puzzle-Sliding-Game\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

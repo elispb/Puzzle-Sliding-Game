@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Mobile\\ACW\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Android\\Puzzle-Sliding-Game\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\490680\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\a0f5a75181dfa926fdd2f921b8ea1c21\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\elisp\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\e55a411296e0cfe44376ad8ba165669e\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:textColorSecondary="@android:color/white"
-        android:id="@+id/reset_button"
-        android:title="@string/Reset_Puzzle_Button">
-    </item>
-</menu>

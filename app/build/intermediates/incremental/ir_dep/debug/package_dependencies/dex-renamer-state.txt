@@ -1,0 +1,4 @@
+#Thu Nov 29 12:04:56 GMT 2018
+base.0=C\:\\Android\\Puzzle-Sliding-Game\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
